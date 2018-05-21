@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<ArrayOfDynamicAOI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DynamicAOI>
+    <ID>56</ID>
+    <ParentID>0</ParentID>
+    <TrackingUsage>None</TrackingUsage>
+    <Group />
+    <Enabled>true</Enabled>
+    <Scope>Local</Scope>
+    <Transparency>50</Transparency>
+    <Points>
+      <Point>
+        <X>1240</X>
+        <Y>70</Y>
+      </Point>
+      <Point>
+        <X>1640</X>
+        <Y>470</Y>
+      </Point>
+    </Points>
+    <BorderWidth>2</BorderWidth>
+    <Type>Rectangle</Type>
+    <Style>HalfTransparent</Style>
+    <HatchStyle>DarkDownwardDiagonal</HatchStyle>
+    <Color>NamedColor:CornflowerBlue</Color>
+    <Name>validation2</Name>
+    <Font>
+      <FontName>Microsoft Sans Serif</FontName>
+      <FontSize>15</FontSize>
+      <FontStyle>Regular</FontStyle>
+      <FontUnit>Point</FontUnit>
+      <FontGdiCharSet>1</FontGdiCharSet>
+      <FontGdiVerticalFont>false</FontGdiVerticalFont>
+    </Font>
+    <ReferenceStimulusID>0</ReferenceStimulusID>
+    <MovieFrameRate>0</MovieFrameRate>
+    <PlaneGridRows>0</PlaneGridRows>
+    <PlaneGridColumns>0</PlaneGridColumns>
+    <Visible>true</Visible>
+    <CurrentTimestamp>0</CurrentTimestamp>
+    <KeyFrames />
+    <TrackedKeyFrames />
+  </DynamicAOI>
+</ArrayOfDynamicAOI>
